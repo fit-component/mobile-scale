@@ -3,5 +3,5 @@
 ---
 
 ````jsx
-npm install fiten-scale /* or */ fis3 install fiten-scale
+npm install fiten-scale
 ````
