@@ -3,5 +3,5 @@
 ---
 
 ````jsx
-npm install fiten-scale
+npm install fit-scale
 ````
