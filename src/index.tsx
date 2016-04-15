@@ -1,4 +1,4 @@
-const scale = (width = 400, reactDomName = 'react-dom')=> {
+const scale = (width:number = 400, reactDomName:string = 'react-dom')=> {
     // 设置页面缩放~
     const WIDTH = width
     const ratio = screen.width / WIDTH
