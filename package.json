@@ -1,6 +1,6 @@
 {
   "name": "fit-scale",
-  "version": "2.0.19",
+  "version": "2.0.20",
   "description": "页面缩放",
   "main": "lib/index.js",
   "scripts": {
@@ -12,5 +12,7 @@
   },
   "author": "huangziyi01",
   "license": "ISC",
-  "dependencies": {}
+  "dependencies": {
+    "typings": "lib/index.d.ts"
+  }
 }
