@@ -1,5 +1,5 @@
 /// <reference path="../../../../typings-module/process.d.ts" />
-
+//
 import * as process from 'process'
 
 const scale = (width: number = 400, reactDomName: string = 'react-dom')=> {
