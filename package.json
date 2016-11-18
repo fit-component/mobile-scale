@@ -1,6 +1,6 @@
 {
   "name": "fit-scale",
-  "version": "2.0.45",
+  "version": "2.0.46",
   "description": "页面缩放",
   "main": "lib/index.js",
   "scripts": {
